@@ -1,4 +1,4 @@
-FROM python:3.9-alpine3.8
+FROM python:3.9-alpine3.14
 LABEL maintainer="ASAPRATAJ"
 
 ENV PYTHONUNBUFFERED 1
